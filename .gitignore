@@ -1,0 +1,10 @@
+# virtual env
+.venv/
+venv/
+
+# python cash
+__pycache__
+*.pyc
+
+# confidental data
+.env

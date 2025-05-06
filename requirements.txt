@@ -1,0 +1,8 @@
+aiogram
+python-dotenv
+Pillow
+pandas
+openpyxl
+python-docx
+pytesseract
+xlrd
